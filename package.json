@@ -1,0 +1,26 @@
+{
+"name": "g39-kmioluy",
+"version": "1.0.0",
+"description": "Create and manage events, sell tickets, and track attendance seamlessly.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lsenbrewingt/39Event-Ticketing-Platform.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lsenbrewingt",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
